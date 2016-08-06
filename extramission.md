@@ -8,7 +8,7 @@
 
 Sharples and Eijk note that Hipparchus of Nicæa was a 2nd-century BCE astronomer and geographer and that the present passage is virtually identical to Aëtius/Pseudo-Plutarch *Placita* (*Tenets*) 4.13
 
-> Geometricians draw cones which are formed from the intersection of the rays sent out through the eyes. For <they say that><the eyes> send out rays, the right eye to the left, the left eye to the right, and as a result a cone is formed by their intersection, which is why sight that can encompass many visible things all at once, but sees exactly <only> those parts where the rays intersect. This is at any rate how, when looking at the floor, we often do not see the coin lying there, though looking hard, until the intersection of the rays falls upon that part where the coin lies and then we gaze upon it as if were were then first paying attention.
+> Geometricians draw cones which are formed from the intersection of the rays sent out through the eyes. For they say that the eyes send out rays, the right eye to the left, the left eye to the right, and as a result a cone is formed by their intersection, which is why sight that can encompass many visible things all at once, but sees exactly only those parts where the rays intersect. This is at any rate how, when looking at the floor, we often do not see the coin lying there, though looking hard, until the intersection of the rays falls upon that part where the coin lies and then we gaze upon it as if were were then first paying attention.
 
 (*De natura hominis* 7; R.W. Sharples and P.J. van der Eijk, *Nemesius On the Nature of Man*, Liverpool University Press, 2008, 104--105)
 
