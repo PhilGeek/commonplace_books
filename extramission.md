@@ -12,7 +12,7 @@ Sharples and Eijk note that Hipparchus of Nicæa was a 2nd-century BCE astronome
 
 (*De natura hominis* 7; R.W. Sharples and P.J. van der Eijk, *Nemesius On the Nature of Man*, Liverpool University Press, 2008, 104--105)
 
-Sharples and Eijk are uncertain about the idnetity of the geometricians. Doma´nski cites Galen *On the Usefulness of Parts* 10 12. Following that suggestion, Sharples and Eijk also cite Galen, *On the Doctrines of Hippocrates and Plato* 7 5 40, and Alexander of Aphrodisias, *On Aristotle on Snese Perception* 28 2.
+Sharples and Eijk are uncertain about the identity of the geometricians. Doma´nski cites Galen *On the Usefulness of Parts* 10 12. Following that suggestion, Sharples and Eijk also cite Galen, *On the Doctrines of Hippocrates and Plato* 7 5 40, and Alexander of Aphrodisias, *On Aristotle on Snese Perception* 28 2.
 
 See notes on Augustine *De Genesi ad litteram libri duodecim* for a comparison.
 
