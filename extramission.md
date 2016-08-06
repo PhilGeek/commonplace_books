@@ -25,3 +25,11 @@ Sharples and Eijk note that Hipparchus of Nicæa was a 2nd-century BCE astronome
 (*De Trinitate* 9 3; Rev Arthur West Haddan, B.D., *On the Trinity, Augustine of Hippo*, Fig, 2012, 238)
 
 Notice that Augustine, after having introduced the extramissionist imagery of rays, immediately brackets that commitment, claiming that it is treated subtly and obscurely and claims that the explanation of perceptual discernment by rays has not yet been clearly demonstrated.
+
+## *De Quantitate Animae*
+
+> Sight extends itself outward and through the eyes darts forth far in every possible direction to light up what we see. Hence it happens that it sees rather in the palce where the onject seen is present, not in the place from which it goes out to see.
+
+(*De quantitate animae* 23 43; Joseph M. Colleran, C.SS.R, Ph.D., *St Augustine, The Greatness of the Soul, The Teacher, New York, NY: The Newman Press, 1950, 66)
+
+Cited by Gerrard O'Daly, *Augustine's Philosophy of Mind, Berkeley and Los Angeles: Uniersity of California Press, 1987 82, 83 as an instance of extramission. However, this occurs in a passage where A is arguing that the sens organ can be affected where it is not, but O'Daly uses the need for contact to argue for the attribution of extramission. Second, nothing in the passage requires an extramissionist metaphysics. It might just as well be a fine description of directing visual attention outwards.
