@@ -55,3 +55,12 @@ A tension in the account raises a potential difficulty, however. Extramission th
 
 Perhaps the present account is usefully compared to the extramissionist dioptrics that Nemesius attributes to the "geometricians" in *De Hominis* 7. We get a similar description of the phenomenology of focal attention, also set within an extramissionist account, but where the dioptric character of vision is made explicit and exploited in an explanation for how we can see many things all at once. For consider a ray sent from a single eye. It would be natural to expect that it sees only that with which it is in contact. But what we see is not restricted in this way. Reflection on binocular vision provides an explanation. The rays from both eyes form a cone. Where the rays intersect is the point of focal attention where things appear exactly in a way that is meant to be consistent with many other things appearing as well if not exactly. Query: Do the many that appear if not exactly confined to the region within the cone? If so, this model does not fit the Augustinian passage where the object seen, if obscurely, is outside of the cone. If the many that appear if not exactly are not confined to the cone, then we so far lack an explanation of how we see the many in terms of the extramissionist dioptrics.
 
+# Achilles Tatius
+
+## *Clitophon and Leucippe*
+
+> the outward emanation of beauty, which flow through the eyes into the soul, is a kind of copulation between separated bodies, and is not far from physical sex.
+
+Cited in *Plotinus, Myth, Metaphor and Philosophical Practice* by Stephen R. L. Clark Chicago and London: University of Chicago Press, 2016 who cites it from Bartsch.
+
+Not clear that this is an example of extramission. Is the claim that beauty emanates from the eyes ("the look of love")? Or is the claim that emanated beauty is taken in through the eyes?
