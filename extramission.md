@@ -55,6 +55,27 @@ A tension in the account raises a potential difficulty, however. Extramission th
 
 Perhaps the present account is usefully compared to the extramissionist dioptrics that Nemesius attributes to the "geometricians" in *De Hominis* 7. We get a similar description of the phenomenology of focal attention, also set within an extramissionist account, but where the dioptric character of vision is made explicit and exploited in an explanation for how we can see many things all at once. For consider a ray sent from a single eye. It would be natural to expect that it sees only that with which it is in contact. But what we see is not restricted in this way. Reflection on binocular vision provides an explanation. The rays from both eyes form a cone. Where the rays intersect is the point of focal attention where things appear exactly in a way that is meant to be consistent with many other things appearing as well if not exactly. Query: Do the many that appear if not exactly confined to the region within the cone? If so, this model does not fit the Augustinian passage where the object seen, if obscurely, is outside of the cone. If the many that appear if not exactly are not confined to the cone, then we so far lack an explanation of how we see the many in terms of the extramissionist dioptrics.
 
+## *Sermon* 277
+
+> In this very body, which we carry around with us, I can find something whose inexpressible swiftness astonishes me; the ray from our eye, with which we touch whatever we behold. What you see, after all, is what you touch with the ray from your eye.
+
+(*Sermon* 277 10; Edmund Hill, O.P., *The Works of Saint Augustine, A Translation for the 21st Century, Part III, Sermons, Volume 8, 273-305A, On the Saints*, Hyde Park, NY: New City Press, 1994, 38)
+
+Augustine is using the familiar tactile metaphor associated with extramission theories. But what is it a metaphor for? Arguably, touch is a metaphor for the presentation in sight of the object of vision. That we touch whatever we behold may be too weak, by itself, to establish that, but it is combined with the claim that what you see is what you touch with the visual ray. On this reading, visual presentation is either reduced to or is at the very least modelled on tactile presentation. If that is right, then Hill is wrong to speculate that "presumably on meeting a visible object <the rays> send back the message to the subject...or perhaps they bounce straight back to the eye like radar" 46 n.17. The rays, as Hill conceives of them, are merely part of the causal medium through which information about the perceived object is conveyed. But if the visual rays touch the objects of perception, then they are perceived where they are, and thus there is no need for a signal to return to the subject.
+
+Augustine explains occlusion as the obstruction of visual rays. This could not be an argument for the extramission theory, as occlusion is equally well explained on the intromissionist hypothesis. Rather, the example of a man obscuring a distant column, is setting up the real topic of *Sermon* 277 10, the "inexpressible swiftness" of the visual rays, which will lead Augustine to an interpretation of Paul's phrase "in the twinkling of an eye" (1 Corinthians 15:52) in *Sermon* 277 11.
+
+Augustine speaks of the "inexpressible swiftness" of the visual rays, but, strictly speaking, their action is instantaneous. If two objects, one near---a man---and one far---a column---are visible to the perceiver, in the circumstances of perception (and hence the man no longer occludes the column), then it is not the case that the visual rays reach the near object sooner than the far: 
+
+> You don't get to him sooner and to it later; and here he is, nearby, and it's a long way off. If you wanted to walk, you would get to the man sooner than to the column; because you wanted to see, you have got to the column as soon as the man. 
+
+> And yet, as soon as you open your eyes, lo and behold, you yourself are here, your ray is there. As soo as you wanted to see it, you reached it by seeing it. ... Just opening your eyes constitutes reaching it.
+
+(*Sermon* 277 10; Edmund Hill, O.P., *The Works of Saint Augustine, A Translation for the 21st Century, Part III, Sermons, Volume 8, 273-305A, On the Saints*, Hyde Park, NY: New City Press, 1994, 39)
+
+Notice that the "inexpressible swiftness" of the visual rays is contrasted with the speed of corporeal processes such as walking. Perhaps, like Philoponus, Augustine maintains that instantaneous action at a distance is only possible for incorporeal activity (*In de anima* 325 1-341 9). After all, instantaneous action at a distance would require a body to travel at infinite speed, but bodies, no matter how swift, only travel at finite speeds.
+
+
 # Achilles Tatius
 
 ## *Clitophon and Leucippe*
