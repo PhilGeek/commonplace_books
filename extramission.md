@@ -57,13 +57,15 @@ Perhaps the present account is usefully compared to the extramissionist dioptric
 
 ## *Sermon* 277
 
+411 AD On the Birthday of the Martyr Vincent
+
 > In this very body, which we carry around with us, I can find something whose inexpressible swiftness astonishes me; the ray from our eye, with which we touch whatever we behold. What you see, after all, is what you touch with the ray from your eye.
 
 (*Sermon* 277 10; Edmund Hill, O.P., *The Works of Saint Augustine, A Translation for the 21st Century, Part III, Sermons, Volume 8, 273-305A, On the Saints*, Hyde Park, NY: New City Press, 1994, 38)
 
 Augustine is using the familiar tactile metaphor associated with extramission theories. But what is it a metaphor for? Arguably, touch is a metaphor for the presentation in sight of the object of vision. That we touch whatever we behold may be too weak, by itself, to establish that, but it is combined with the claim that what you see is what you touch with the visual ray. On this reading, visual presentation is either reduced to or is at the very least modelled on tactile presentation. If that is right, then Hill is wrong to speculate that "presumably on meeting a visible object <the rays> send back the message to the subject...or perhaps they bounce straight back to the eye like radar" 46 n.17. The rays, as Hill conceives of them, are merely part of the causal medium through which information about the perceived object is conveyed. But if the visual rays touch the objects of perception, then they are perceived where they are, and thus there is no need for a signal to return to the subject.
 
-Augustine explains occlusion as the obstruction of visual rays. This could not be an argument for the extramission theory, as occlusion is equally well explained on the intromissionist hypothesis. Rather, the example of a man obscuring a distant column, is setting up the real topic of *Sermon* 277 10, the "inexpressible swiftness" of the visual rays, which will lead Augustine to an interpretation of Paul's phrase "in the twinkling of an eye" (1 Corinthians 15:52) in *Sermon* 277 11.
+Augustine explains occlusion as the obstruction of visual rays. This could not be an argument for the extramission theory, as occlusion is equally well explained on the intromissionist hypothesis. Rather, the example of a man obscuring a distant column, is setting up the real topic of *Sermon* 277 10, the "inexpressible swiftness" of the visual rays, which will lead Augustine to an interpretation of Paul's phrase "in the twinkling of an eye" (1 Corinthians 15:52) in *Sermon* 277 11, understood as the speed at which the body will be resurrected.
 
 Augustine speaks of the "inexpressible swiftness" of the visual rays, but, strictly speaking, their action is instantaneous. If two objects, one near---a man---and one far---a column---are visible to the perceiver, in the circumstances of perception (and hence the man no longer occludes the column), then it is not the case that the visual rays reach the near object sooner than the far: 
 
@@ -73,7 +75,13 @@ Augustine speaks of the "inexpressible swiftness" of the visual rays, but, stric
 
 (*Sermon* 277 10; Edmund Hill, O.P., *The Works of Saint Augustine, A Translation for the 21st Century, Part III, Sermons, Volume 8, 273-305A, On the Saints*, Hyde Park, NY: New City Press, 1994, 39)
 
-Notice that the "inexpressible swiftness" of the visual rays is contrasted with the speed of corporeal processes such as walking. Perhaps, like Philoponus, Augustine maintains that instantaneous action at a distance is only possible for incorporeal activity (*In de anima* 325 1-341 9). After all, instantaneous action at a distance would require a body to travel at infinite speed, but bodies, no matter how swift, only travel at finite speeds.
+Notice that the "inexpressible swiftness" of the visual rays is contrasted with the speed of corporeal processes such as walking. Perhaps, like Philoponus, Augustine maintains that instantaneous action at a distance is only possible for incorporeal activity (*In de anima* 325 1-341 9). After all, instantaneous action at a distance would require a body to travel at infinite speed, but bodies, no matter how swift, only travel at finite speeds. 
+
+The contrast that Augustine draws between the speed of the eyelid in opening one's eyes and the speed of the visual rays thereby unleashed is also relevant:
+
+> The twinling of an eye does not consist in closing and opening the eyelids, because this is done more slowly than seeing. You bat an eyelid more slowly than you direct a ray. Your ray gets to the sky more quickly than the batted eyelids reach the eyebrow.
+
+(*Sermon* 277 11; Edmund Hill, O.P., *The Works of Saint Augustine, A Translation for the 21st Century, Part III, Sermons, Volume 8, 273-305A, On the Saints*, Hyde Park, NY: New City Press, 1994, 39)
 
 
 # Achilles Tatius
