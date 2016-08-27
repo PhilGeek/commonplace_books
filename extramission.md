@@ -83,6 +83,8 @@ The contrast that Augustine draws between the speed of the eyelid in opening one
 
 (*Sermon* 277 11; Edmund Hill, O.P., *The Works of Saint Augustine, A Translation for the 21st Century, Part III, Sermons, Volume 8, 273-305A, On the Saints*, Hyde Park, NY: New City Press, 1994, 39)
 
+Notice that Augustine identifies the speed of the visual rays with the speed of seeing, providing further evidence for the hypothesis that visual presentation is being understood as a kind of touch by visual rays.
+
 
 # Achilles Tatius
 
