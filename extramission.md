@@ -87,7 +87,7 @@ Notice that Augustine identifies the speed of the visual rays with the speed of 
 
 ## *De Musica*
 
-> Then, as the diffusion of rays shining out into the open from tiny puils of the wy, and belonging therefore to our body, in such a way that, although the things we see are placed at a distance, they are yet quickened by the soul, so, just as we are helped by their effusion in comprehending place-spans, the memory too, because it is somehow the light of time-spans, so far comprehends these time-spans as in its own way ot to can be projected.
+> Then, as the diffusion of rays shining out into the open from tiny pupils of the eye, and belonging therefore to our body, in such a way that, although the things we see are placed at a distance, they are yet quickened by the soul, so, just as we are helped by their effusion in comprehending place-spans, the memory too, because it is somehow the light of time-spans, so far comprehends these time-spans as in its own way ot to can be projected.
 
 (*De Musica* 6 8 21; Robert Catesby Taliaferro, in The Fathers of the Church, volume 4, St  Augustine, The Immortality of the Soul, The Magnitude of the Soul, On Music, The Advantage of Believing, On Faith in Things Unseen, The Catholic University of America Press, 1947, 346)
 
